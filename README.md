@@ -1,6 +1,9 @@
 # SmartHealth
-SmartHealth - Artificial Intelligence for Personalized Healthcare Throughout the Lifespane is a project that aims to contribute to a more intelligent approach that focuses on the unique characteristics of each patient and the creation of effective solutions, making rehabilitation procedures more successful, automatic, and faster than traditional methods.
+SmartHealth - Artificial Intelligence for Personalized Healthcare Throughout the Lifespane 
 --
+is a project that aims to contribute to a more intelligent approach that focuses on the unique characteristics of each patient and the creation of effective solutions, making rehabilitation procedures more successful, automatic, and faster than traditional methods.
+- -
+- 
 This repository provides supplementary data for the Paper entitled: "Robot-Assisted Rehabilitation Architecture Supported by a Distributed Data Acquisition System".
 This repository also provide a the drawing of the Arm handle printed and installed in the UR3 robot, under the name: "SmartHealth Arm V0.1 v13.f3d".
 
