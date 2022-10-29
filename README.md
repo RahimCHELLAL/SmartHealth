@@ -1,5 +1,4 @@
 # SmartHealth - Artificial Intelligence for Personalized Healthcare Throughout the Lifespane 
---
 Is a project that aims to contribute to a more intelligent approach that focuses on the unique characteristics of each patient and the creation of effective solutions, making rehabilitation procedures more successful, automatic, and faster than traditional methods.
 
 -  - -  -  - -  - -  - -  -  - -  - -  - -  -  - -  - -  - -  -  - -  - -  - -  -  - -  - -  - -  -  - -  - -  - -  -  - -  - 
